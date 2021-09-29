@@ -1,0 +1,3 @@
+A.	Create a NodeJS server using HAPI/Express framework. 
+B.	Add a route with GET request. 
+C.	Add a route for POST request along with validation payload and error handler for request. 
